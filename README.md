@@ -32,9 +32,13 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Body#####
-A Balade agaynst malycyous sclaunderers1540Approx. 6 KB of XML-encoded text transcribed from 1 1-bit
+
+1. ¶A balade agaynſt malycyous Sclaunderers.
+
 #####Back#####
-A Balade agaynst malycyous sclaunderers1540Approx. 6 KB of XML-encoded text transcribed from 1 1-bit
+☜Prentyd at London in Lombard ſtrete nere
+vnto the Stockes market at the ſygne
+of the Mermayde by Io
 **Types of content**
 
   * There are 92 **verse** lines!
